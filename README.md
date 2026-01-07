@@ -4,7 +4,7 @@ Author: Manav Williams
 UID: 2509037 | Roll Number: 37
 
 📖 Project Overview
-This project implements a full-stack data analytics pipeline for Auto Sales data. It automates the process of data cleaning, database ingestion, SQL-based analysis, and interactive visualization.
+This project implements a full-stack data analytics pipeline using Linux for Auto Sales data. It automates the process of data cleaning, database ingestion, SQL-based analysis, and interactive visualization.
 
 The pipeline performs three main functions:
 
