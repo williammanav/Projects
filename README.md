@@ -17,14 +17,12 @@ Visualization: Displays insights via an interactive Streamlit dashboard.
 Screenshots:
 
 <img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-31" src="https://github.com/user-attachments/assets/f6d52659-9773-4b27-bb48-f74df1a7976f" />
-
-<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-31" src="https://github.com/user-attachments/assets/bf610aff-99c8-4eaa-900c-455520e3ba20" />
-<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-45" src="https://github.com/user-attachments/assets/905f2ae4-c77b-47b9-b882-4270620751f3" />
-<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-53" src="https://github.com/user-attachments/assets/d795808a-64ed-4518-9dc6-baf6dd2eb860" />
-<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-02" src="https://github.com/user-attachments/assets/d419529c-5516-451e-96c2-dfa4396fd5de" />
-<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-06" src="https://github.com/user-attachments/assets/776ebca2-333b-40f0-b8dd-b8aff7ec5566" />
-<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-10" src="https://github.com/user-attachments/assets/67e6667c-6d9b-4e33-b547-71b8ca467579" />
-<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-19" src="https://github.com/user-attachments/assets/8f9c18f2-ba20-4610-ad19-2bf08fa23b0a" />
-<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-31" src="https://github.com/user-attachments/assets/5c0f9e2c-a2f4-4af7-870f-2105a511b740" />
-<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-49" src="https://github.com/user-attachments/assets/c6efdda9-39e7-4513-97c4-27ee535757ac" />
+<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-45" src="https://github.com/user-attachments/assets/1644f15a-91ce-4541-ae67-deaf4c0a0f8e" />
+<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-53" src="https://github.com/user-attachments/assets/813b9983-9553-4fad-ac69-262e76044f53" />
+<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-02" src="https://github.com/user-attachments/assets/83a27296-05db-479d-9670-44c8c12c5ccd" />
+<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-06" src="https://github.com/user-attachments/assets/ef745260-9e1e-482e-bd88-cd5ed5d39fce" />
+<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-10" src="https://github.com/user-attachments/assets/e0902172-436d-43ec-b5c5-0dc1d7415b89" />
+<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-19" src="https://github.com/user-attachments/assets/7fad07e5-0cb0-4c88-8ec6-e63c362ff583" />
+<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-31" src="https://github.com/user-attachments/assets/da63b158-8511-4fda-8608-9510e555aab3" />
+<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-55-49" src="https://github.com/user-attachments/assets/7c2bccf3-ce53-4c8a-9b8b-5005fabcd8f0" />
 
