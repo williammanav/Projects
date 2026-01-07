@@ -16,6 +16,8 @@ Visualization: Displays insights via an interactive Streamlit dashboard.
 
 Screenshots:
 
+<img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-31" src="https://github.com/user-attachments/assets/f6d52659-9773-4b27-bb48-f74df1a7976f" />
+
 <img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-31" src="https://github.com/user-attachments/assets/bf610aff-99c8-4eaa-900c-455520e3ba20" />
 <img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-45" src="https://github.com/user-attachments/assets/905f2ae4-c77b-47b9-b882-4270620751f3" />
 <img width="1600" height="900" alt="Screenshot from 2026-01-07 11-54-53" src="https://github.com/user-attachments/assets/d795808a-64ed-4518-9dc6-baf6dd2eb860" />
